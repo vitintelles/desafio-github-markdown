@@ -2,6 +2,11 @@
 
 O desafio consiste em criar um repositório **Público** e fazer ações básicas que foram aprendidas durante o curso.
 
+A proposta é mostrar todos os conceitos como:
+* Comandos gits
+* Recursos GitHub
+* Markdown
+
 ## Criando Tabelas
 
 | Cabeçalho | Cabeçalho 2 |
